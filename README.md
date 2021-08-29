@@ -9,6 +9,20 @@
   </a>
  
 </h1> <br>
-<p>
-I'm Vivek Prajapati, a passionate self-taught Machine Learning Engineer and an aspiring Full Stack Web Developer from India. </p>
-<img alt="GIF" align="right" src="https://github.com/vivekprajapati2048/vivekprajapati2048/blob/main/coding-freak.gif?raw=true" /> 
+
+I'm **Vivek Prajapati**, a passionate self-taught **Machine Learning Engineer** 🤖 and an aspiring **Full Stack Web Developer** 💻 from India.
+<!-- <h3> Skills: </h3>
+<table>
+  <tr>
+    <td>
+      <li> Machine Learning </li>
+      <li> Deep Learning </li>
+      <li> Computer Vision </li>
+      <li> NLP </li>
+    </td>
+    <td>
+      <img alt="GIF" align="right" src="https://github.com/vivekprajapati2048/vivekprajapati2048/blob/main/coding-freak.gif?raw=true" /> 
+    </td>
+  </tr>
+</table>
+     -->
