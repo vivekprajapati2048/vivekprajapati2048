@@ -11,6 +11,16 @@
 </h1> <br>
 
 I'm **Vivek Prajapati**, a passionate self-taught **Machine Learning Engineer** 🤖 and an aspiring **Full Stack Web Developer** 💻 from India.
+<br>
+
+<!-- <h2> Skills </h2>
+<ul>
+  <li> Machine Learning </li>
+  <li> Deep Learning </li>
+  <li> Computer Vision </li>
+  <li> NLP </li></ul>
+
+ -->
 <!-- <h3> Skills: </h3>
 <table>
   <tr>
