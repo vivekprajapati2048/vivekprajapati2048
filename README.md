@@ -10,7 +10,7 @@
  
 </h1> <br>
 
-I'm **Vivek Prajapati**, a passionate self-taught **Machine Learning Engineer** 🤖 and an aspiring **Full Stack Web Developer** 💻 from India.
+I'm **Vivek Prajapati**, a passionate self-taught **Machine Learning Engineer** 🤖 and a **Full Stack Web Developer** 💻 from India.
 <br>
 
 <!-- <h2> Skills </h2>
