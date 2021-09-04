@@ -24,7 +24,9 @@ I'm **Vivek Prajapati**, a passionate self-taught **Machine Learning Engineer** 
   <li><a href="https://vivekprajapati2048.github.io/the-simon-game/">The Simon Game</a> : HTML, CSS, Bootstrap, JS, jQuery</li>
   <li><a href="https://vivekprajapati2048.github.io/the-drum-kit/">A Drum Kit</a> : HTML, CSS, Bootstrap, JS</li>
   <li><a href="https://vivekprajapati2048.github.io/css-website/">About Me</a> : HTML + CSS only</li>
-</ul>
+</ul>  
+
+Visit my Repositories for many more...!
 
  
 <!-- <h3> Skills: </h3>
