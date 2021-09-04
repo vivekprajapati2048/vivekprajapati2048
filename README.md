@@ -26,7 +26,7 @@ I'm **Vivek Prajapati**, a passionate self-taught **Machine Learning Engineer** 
   <li><a href="https://vivekprajapati2048.github.io/css-website/">About Me</a> : HTML + CSS only</li>
 </ul>  
 
-Visit my Repositories for many more...!
+Visit my [Repositories](https://github.com/vivekprajapati2048?tab=repositories) for more...!
 
  
 <!-- <h3> Skills: </h3>
