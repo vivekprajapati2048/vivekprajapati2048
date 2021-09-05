@@ -20,12 +20,12 @@
 <!-- Twitter Follow Button -->
 <!-- <p align="left"> <a href="https://twitter.com/imv1v3k" target="blank"><img src="https://img.shields.io/twitter/follow/imv1v3k?logo=twitter&style=for-the-badge" alt="imv1v3k" /></a> </p> -->
 
-  
+<!--   
 - 🌱 I’m currently learning **Django , DS/Algo**
 
 - 💬 Ask me about **Python, Machine Learning, Full Stack Web Dev** 
 
-- 📫 Reach me on **vivekprajapati2048@gmail.com**
+- 📫 Reach me on **vivekprajapati2048@gmail.com** -->
  
   
 <!--   <a href="https://stackoverflow.com/users/sanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sanika" height="30" width="40" /></a> -->
@@ -34,7 +34,7 @@
 <!--   <a href="https://www.leetcode.com/sanika_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanika_21" height="30" width="40" /></a> -->
 <!--   <a href="https://discord.gg/sanika#3142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanika#3142" height="30" width="40" /></a> -->
 
-
+<!-- 
 
 <h3 align="left">Languages & Tools:</h3>
 
@@ -58,26 +58,25 @@
   
   
   
- </p>
+ </p> -->
  
   
    
   
   
 
-
+<!-- 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanika2103&show_icons=true&locale=en&layout=compact" alt="sanika2103" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanika2103&show_icons=true&locale=en" alt="sanika2103" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanika2103&" alt="sanika2103" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanika2103&" alt="sanika2103" /></p> -->
 
 
- -->
 <!-- ***************************************************************************************************** -->
-<h1>Hey there! 
+<!-- <h1>Hey there! 
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
   <a href="https://twitter.com/imv1v3k">
@@ -107,4 +106,4 @@ I'm **Vivek Prajapati**, a passionate self-taught **Machine Learning Engineer** 
 
 Visit my [Repositories](https://github.com/vivekprajapati2048?tab=repositories) for more...!
 
-
+ -->
