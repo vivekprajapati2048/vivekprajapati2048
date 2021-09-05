@@ -20,7 +20,7 @@
 </div>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekprajapati2048&show_icons=true&locale=en&layout=compact" alt="vivekprajapati2048" width="450" height="320" /> -->
-<img align="right" alt="GIF" src="https://github.com/vivekprajapati2048/vivekprajapati2048/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/vivekprajapati2048/vivekprajapati2048/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages & Tools:</h3>
 
