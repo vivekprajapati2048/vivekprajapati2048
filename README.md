@@ -1,4 +1,4 @@
-<!-- 
+
 <h1 >Hey there, I'm Vivek.
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   <a href="https://twitter.com/imv1v3k" target="blank">
@@ -10,7 +10,7 @@
 </h1>
   
 <h3 align="center">A passionate & self-taught Machine Learning Engineer 🤖 and a Full Stack Web Developer 💻.</h3>
-
+<!-- 
 <!--  PROFILE VIEW -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekprajapati2048&label=Profile%20views&color=0e75b6&style=flat" alt="vivekprajapati2048"/> </p> -->
 
