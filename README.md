@@ -45,7 +45,7 @@
   
  </p>
 
-<h3> Projects: </h3>
+<h3> Web Dev Projects: </h3>
 <p> <strong>Stack:</strong> HTML, CSS, Bootstrap, Javascript, Document Object Model (DOM), jQuery, Unix Command, Node.js, Express.js, APIs, Git, EJS, MongoDB, Mongoose, Deployment to Heroku</p>
 
   <ul>
