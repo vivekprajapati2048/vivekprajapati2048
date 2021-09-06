@@ -64,37 +64,12 @@
 
 
 
-
-
-
-<!-- ****************************************************************************
 <!--  PROFILE VIEW -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekprajapati2048&label=Profile%20views&color=0e75b6&style=flat" alt="vivekprajapati2048"/> </p> -->
 <!--  GitHub Tropies-->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekprajapati2048" alt="vivekprajapati2048" /></a> </p> -->
 <!-- Twitter Follow Button -->
 <!-- <p align="left"> <a href="https://twitter.com/imv1v3k" target="blank"><img src="https://img.shields.io/twitter/follow/imv1v3k?logo=twitter&style=for-the-badge" alt="imv1v3k" /></a> </p>
- ********************************************************************************* -->
-<!-- **************************************************************************  
- <a href="https://stackoverflow.com/users/sanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sanika" height="30" width="40" /></a> -->
-<!--   <a href="https://www.codechef.com/users/sanika_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanika_21" height="30" width="40" /></a> -->
-<!--   <a href="https://www.hackerrank.com/sanikapatil1321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanikapatil1321" height="30" width="40" /></a> -->
-<!--   <a href="https://www.leetcode.com/sanika_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanika_21" height="30" width="40" /></a> -->
-<!--   <a href="https://discord.gg/sanika#3142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanika#3142" height="30" width="40" /></a> 
-****************************************************************************** -->
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekprajapati2048&show_icons=true&locale=en" alt="vivekprajapati2048" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekprajapati2048&" alt="vivekprajapati2048" /></p> -->
-<!-- ***************************************************************************************************** -->
-<!-- <h1>Hey there! 
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  <a href="https://twitter.com/imv1v3k">
-  <img align="right" alt="Vivek Prajapati | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/vivekprajapati2048/">
-  <img align="right" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-</h1> <br>
-I'm **Vivek Prajapati**, a passionate self-taught **Machine Learning Engineer** 🤖 and a **Full Stack Web Developer** 💻 from India.
-<br>
- -->
