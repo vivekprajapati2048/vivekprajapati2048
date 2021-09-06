@@ -57,19 +57,3 @@
   <li><a href="https://vivekprajapati2048.github.io/the-drum-kit/">A Drum Kit</a> : HTML, CSS, Bootstrap, JS</li>
   <li><a href="https://vivekprajapati2048.github.io/css-website/">About Me</a> : HTML + CSS only</li>
 </ul>  
-
-
-
-
-
-
-
-<!--  PROFILE VIEW -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekprajapati2048&label=Profile%20views&color=0e75b6&style=flat" alt="vivekprajapati2048"/> </p> -->
-<!--  GitHub Tropies-->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekprajapati2048" alt="vivekprajapati2048" /></a> </p> -->
-<!-- Twitter Follow Button -->
-<!-- <p align="left"> <a href="https://twitter.com/imv1v3k" target="blank"><img src="https://img.shields.io/twitter/follow/imv1v3k?logo=twitter&style=for-the-badge" alt="imv1v3k" /></a> </p>
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekprajapati2048&show_icons=true&locale=en" alt="vivekprajapati2048" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekprajapati2048&" alt="vivekprajapati2048" /></p> -->
