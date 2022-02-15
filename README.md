@@ -12,7 +12,7 @@
 <h3 align="center">A passionate & self-taught Machine Learning Engineer 🤖 and a Full Stack Web Developer 💻.</h3>
 
 <div align="center"> 
-  <a> 🌱 I’m currently learning <strong>Django</strong> </a>
+  <a> 🌱 I’m currently learning <strong>React</strong> </a>
   
 <!--   <a> 💬 Ask me about <strong>Python, Machine Learning, Full Stack Web Dev</strong> </a> -->
   
