@@ -46,7 +46,7 @@
  </p>
 
 <h3> Web Dev Projects: </h3>
-<p> <strong>Stack:</strong> HTML, CSS, Bootstrap, Javascript, Document Object Model (DOM), jQuery, Unix Command, Node.js, Express.js, APIs, Git, EJS, MongoDB, Mongoose, Deployment to Heroku</p>
+<p> <strong>Stack:</strong> HTML, CSS, Bootstrap, Javascript, MERN, Django, Flask, APIs, Git, AWS, Azure, Docker</p>
 
   <ul>
   <li><a href="https://blooming-shelf-05625.herokuapp.com/">Journal Web App</a> : Frontend & Backend + MongoDB + Deploy (Heroku)</li>
